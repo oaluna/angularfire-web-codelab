@@ -1,0 +1,42 @@
+[debug] [2024-12-15T23:44:14.197Z] ----------------------------------------------------------------------
+[debug] [2024-12-15T23:44:14.199Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js --account caporalesluna@gmail.com
+[debug] [2024-12-15T23:44:14.199Z] CLI Version:   13.29.1
+[debug] [2024-12-15T23:44:14.199Z] Platform:      win32
+[debug] [2024-12-15T23:44:14.199Z] Node Version:  v23.2.0
+[debug] [2024-12-15T23:44:14.200Z] Time:          Sun Dec 15 2024 15:44:14 GMT-0800 (Pacific Standard Time)
+[debug] [2024-12-15T23:44:14.200Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-12-15T23:44:14.202Z] TypeError: Cannot read properties of undefined (reading '0')
+    at Command.<anonymous> (C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:58:21)
+    at Command.listener [as _actionHandler] (C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:413:31)
+    at Command._parseCommand (C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:914:14)
+    at Command.parse (C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:717:10)
+    at Object.<anonymous> (C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:133:26)
+    at Module._compile (node:internal/modules/cjs/loader:1550:14)
+    at Object..js (node:internal/modules/cjs/loader:1702:10)
+    at Module.load (node:internal/modules/cjs/loader:1307:32)
+    at Function._load (node:internal/modules/cjs/loader:1121:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2024-12-15T23:44:35.268Z] ----------------------------------------------------------------------
+[debug] [2024-12-15T23:44:35.270Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js --account oscarluna.webdev@gmail.com
+[debug] [2024-12-15T23:44:35.271Z] CLI Version:   13.29.1
+[debug] [2024-12-15T23:44:35.271Z] Platform:      win32
+[debug] [2024-12-15T23:44:35.271Z] Node Version:  v23.2.0
+[debug] [2024-12-15T23:44:35.272Z] Time:          Sun Dec 15 2024 15:44:35 GMT-0800 (Pacific Standard Time)
+[debug] [2024-12-15T23:44:35.272Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-12-15T23:44:35.274Z] TypeError: Cannot read properties of undefined (reading '0')
+    at Command.<anonymous> (C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\lib\index.js:58:21)
+    at Command.listener [as _actionHandler] (C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:413:31)
+    at Command._parseCommand (C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:914:14)
+    at Command.parse (C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\commander\index.js:717:10)
+    at Object.<anonymous> (C:\Users\Capor\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js:133:26)
+    at Module._compile (node:internal/modules/cjs/loader:1550:14)
+    at Object..js (node:internal/modules/cjs/loader:1702:10)
+    at Module.load (node:internal/modules/cjs/loader:1307:32)
+    at Function._load (node:internal/modules/cjs/loader:1121:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+[error] 
+[error] Error: An unexpected error has occurred.
